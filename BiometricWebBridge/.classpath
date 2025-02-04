@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Librerias/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="Librerias/base64-2.3.7.jar"/>
+	<classpathentry kind="lib" path="Librerias/Detectar_Windows.jar"/>
+	<classpathentry kind="lib" path="Librerias/dpfpenrollment.jar"/>
+	<classpathentry kind="lib" path="Librerias/dpfpverification.jar"/>
+	<classpathentry kind="lib" path="Librerias/dpotapi.jar"/>
+	<classpathentry kind="lib" path="Librerias/dpotjni.jar"/>
+	<classpathentry kind="lib" path="Librerias/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="Librerias/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="Librerias/JTattoo-1.6.11.jar"/>
+	<classpathentry kind="lib" path="Librerias/Notify.jar"/>
+	<classpathentry kind="lib" path="Librerias/sqlite-jdbc-3.8.11.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

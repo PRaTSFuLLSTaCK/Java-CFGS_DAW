@@ -1,0 +1,9 @@
+﻿Esto es una prueba para el ejercicio 1. Añadir al final de un archivo de texto otro archivo.
+Este es el archivo de texto 1.
+Almería
+Málaga
+Córdoba
+España
+
+===========================
+

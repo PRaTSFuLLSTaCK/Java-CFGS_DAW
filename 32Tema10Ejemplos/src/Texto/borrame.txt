@@ -1,0 +1,2 @@
+Entero: 55, Real: 40.67
+String: Texto

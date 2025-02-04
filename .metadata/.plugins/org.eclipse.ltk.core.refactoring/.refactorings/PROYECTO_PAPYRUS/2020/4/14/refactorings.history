@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Mover &apos;ArgoUML II&#x0A;.di&apos; a &apos;EDT4_practica1&apos;" description="Mover &apos;ArgoUML II&#x0A;.di&apos; a &apos;EDT4_practica1&apos;" destination="/EDT4_practica1" element1="/ArgoUML II/ArgoUML II&#x0A;.di" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1585775733636" updateReferences="true"/>
+</session>

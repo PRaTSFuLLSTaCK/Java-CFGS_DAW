@@ -1,0 +1,13 @@
+amigos.txt
+buffer
+Copiar.class
+Copiar.java
+Insertar.class
+Insertar.java
+LecturaEscritura.class
+LecturaEscritura.java
+uno.txt
+
+Esto es un fichero de prueba. Almería (España). 
+
+Palabras con acentos: canción, Almería

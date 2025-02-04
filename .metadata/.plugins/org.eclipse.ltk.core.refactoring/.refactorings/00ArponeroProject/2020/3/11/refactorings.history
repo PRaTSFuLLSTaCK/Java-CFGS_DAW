@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Redenominar el recurso &apos;00ArponeroProject/src/examen2TrimestreDeProgramacion2&apos; como &apos;examen2TrimestreDeProgramacionSolucion&apos;" description="Redenominar recurso &apos;examen2TrimestreDeProgramacion2&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/examen2TrimestreDeProgramacion2" name="examen2TrimestreDeProgramacionSolucion" stamp="1584269520680" updateReferences="true"/>
+</session>

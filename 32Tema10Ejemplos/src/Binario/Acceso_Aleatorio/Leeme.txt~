@@ -1,0 +1,3 @@
+El código fuente para el acceso aleatorio a los ficheros se ha realizado con un proyecto de NetBeans.
+
+Si quieres pasar el código fuente a Geany solo has de copiar todo el código fuente (extensión .java) a un directorio y quitar la línea que aparece al principio del código con el nombre package... 

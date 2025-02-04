@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copiar el paquete &apos;practicaHerenciaTurismoEnGranada&apos; a &apos;00ArponeroProject/src&apos;&#x0A;- Proyecto original: &quot;00ArponeroProject&quot;&#x0A;- Destination element: &apos;00ArponeroProject/src&apos;&#x0A;- Elemento original: &apos;00ArponeroProject/src/practicaHerenciaTurismoEnGranada&apos;" description="Copiar paquete" destination="/src" element1="/src&lt;practicaHerenciaTurismoEnGranada" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1586766674595" version="1.0"/>
+</session>

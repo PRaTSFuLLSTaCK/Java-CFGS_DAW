@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;teclado.java&apos; to &apos;00ArponeroProject/src/practicaTema10Primitiva&apos;&#x0A;- Proyecto original: &quot;00ArponeroProject&quot;&#x0A;- Destination element: &apos;00ArponeroProject/src/practicaTema10Primitiva&apos;&#x0A;- Elemento original: &apos;utilidades.teclado.java&apos;" description="Copiar unidad de compilacion" destination="/src&lt;practicaTema10Primitiva" element1="/src&lt;utilidades{teclado.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1586198393482" units="1" version="1.0"/>
+</session>

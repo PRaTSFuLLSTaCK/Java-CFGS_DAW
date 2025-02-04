@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Borrar el recurso &apos;PROYECTO_PAPYRUS/MiGuia&apos;." deleteContents="false" description="Borrar el recurso &apos;PROYECTO_PAPYRUS/MiGuia&apos;." element1="/PROYECTO_PAPYRUS/MiGuia" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1586943037147"/>
+</session>

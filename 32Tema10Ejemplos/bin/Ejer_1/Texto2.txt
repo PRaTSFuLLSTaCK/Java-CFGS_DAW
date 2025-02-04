@@ -1,0 +1,10 @@
+Este es el archivo de texto 2 que se añadirá al final del archivo.
+
+Linea 1
+
+Linea 2
+
+Linea 3
+
+-----------------------------------------------
+

@@ -1,0 +1,31 @@
+Esto es una prueba para el ejercicio 1. Añadir al final de un archivo de texto otro archivo.
+
+*******************
+
+Este es el archivo de texto 2 que se añadira al final del archivo.
+
+
+++++++++++++
+
+
+Este es el archivo de texto 2 que se añadira al final del archivo.
+
+Linea 1
+
+Linea 2
+
+Linea 3
+Este es el archivo de texto 2 que se añadira al final del archivo.
+
+Linea 1
+
+Linea 2
+
+Linea 3
+Este es el archivo de texto 2 que se añadira al final del archivo.
+
+Linea 1
+
+Linea 2
+
+Linea 8
